@@ -5,7 +5,7 @@
   <a href="#books-resources">Resources</a>
 </p>
 
-This repository can be used as a reference guide/sample to enable your first maven package publish to GitHub Packages registry for maven.
+This repository can be used as a reference guide/sample to enable publishing your first package via Github Container Registry.
 
 ## :mega: Prerequisites
 
