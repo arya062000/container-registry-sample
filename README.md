@@ -12,7 +12,7 @@ This repository can be used as a reference guide/sample to enable your first mav
 - A [GitHub.com account](https://github.com/join) with a [verified e-mail address](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/verifying-your-email-address)
 - Basic understanding of `yaml` syntax
 - Basic understanding of DevOps processes
-- Basic understanding of software package registries (e.g. GitHub Packages, rubygems)
+- Basic understanding of Github Container Registry
 - Nice to have: experience with GitHub Actions or other automation servers such as Jenkins or TravisCI
 
 ## :books: Resources
