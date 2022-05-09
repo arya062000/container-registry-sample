@@ -22,7 +22,7 @@ jobs:
         run: echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io -u ${{ github.actor }} --password-stdin
 
       - name: Publish image
-        run: docker tag golang ghcr.io/arya062000/container-registry-sample:latest
+        run: docker tag golang ghcr.io/arya062000/container-registry-sample-pkg:latest
         
       - name: Push image
-        run: docker push ghcr.io/arya062000/container-registry-sample:latest
+        run: docker push ghcr.io/arya062000/container-registry-sample-pkg:latest
